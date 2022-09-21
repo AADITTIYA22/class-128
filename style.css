@@ -1,0 +1,39 @@
+body{
+background-size:cover;
+}
+.disc_right{
+    float: right;
+
+}
+.disc_left{
+    float: left;
+}
+
+.speed_image,.volume_image{
+    border-radius: 100px;
+    width: 300px;
+}
+
+#speed,#volume{
+    width: 100px;
+     font-size: 25px;
+}
+
+.header{
+    font-size: 25px;
+    margin: 0;
+    width: 100%;
+}
+.note{
+    font-size: 20px;
+    color :black;
+}
+.play{
+    margin-top: 30px;
+    border: black solid 4px;
+}
+
+canvas{
+    margin-top: 50px;
+    border: rgb(134, 134, 255) solid 5px;
+}
